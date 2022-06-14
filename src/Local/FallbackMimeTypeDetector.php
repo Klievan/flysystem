@@ -14,7 +14,6 @@ class FallbackMimeTypeDetector implements MimeTypeDetector
         'application/x-empty',
         'text/plain',
         'text/x-asm',
-        'application/octet-stream',
         'inode/x-empty',
     ];
 
